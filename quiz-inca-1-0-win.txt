@@ -1,0 +1,38 @@
+Loaded 12 questions
+tupa inca yupanqui?
+pachacuti
+Right!
+huayna capac?
+tupa inca yupanqui
+Right!
+capac yupanqui?
+mayta capac
+Right!
+huascar?
+huayna capac
+Right!
+inca roca?
+capac yupanqui
+Right!
+atahuallpa?
+huascar
+Right!
+sinchi roca?
+manco capac
+Right!
+yahuar huacac?
+inca roca
+Right!
+mayta capac?
+lloque yupanqui
+Right!
+lloque yupanqui?
+sinchi roca
+Right!
+pachacuti?
+viracocha
+Right!
+viracocha?
+yahuar huacac
+Right!
+Rights 12, wrongs 0, score 100%

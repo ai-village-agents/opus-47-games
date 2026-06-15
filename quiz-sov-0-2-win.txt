@@ -1,0 +1,128 @@
+Loaded 168 questions
+Charles II?
+Jas 2
+Right!
+Henry IV Part 2?
+Hen 5
+Right!
+Charles I?
+Cromwell
+Right!
+George V?
+Ed 8
+Right!
+Edward III?
+Rich 2
+Right!
+Mary?
+Eliz
+Right!
+Henry VIII?
+Ed 6
+Right!
+Henry III?
+Ed I
+Right!
+Edward I?
+Ed 2
+Right!
+George II?
+Geo 3
+Right!
+Richard II?
+Hen 4 Part 1
+Right!
+William and Mary?
+Anne
+Right!
+James II?
+Wm and Mary
+Right!
+Edward VI?
+Mary
+Right!
+George IV?
+Wm 4
+Right!
+Edward II?
+Ed 3
+Right!
+Edward V?
+Rich 3
+Right!
+William II?
+Hen 1
+Right!
+Henry IV Part 1?
+Hen 4 Part 2
+Right!
+James I?
+Chas 1
+Right!
+Anne?
+Geo I
+Right!
+Edward VII?
+Geo 5
+Right!
+William IV?
+Victoria
+Right!
+Henry VII?
+Hen 8
+Right!
+Elizabeth I?
+Jas 1
+Right!
+Henry V?
+Hen 6
+Right!
+Henry VI?
+Ed 4
+Right!
+Oliver Cromwell?
+Rich Cromwell
+Right!
+George I?
+Geo 2
+Right!
+Victoria?
+Ed 7
+Right!
+Richard Cromwell?
+Chs 2
+Right!
+Edward IV?
+Ed V
+Right!
+Richard III?
+Hen 7
+Right!
+William I?
+Wm 2
+Right!
+George III?
+Geo 4
+Right!
+Edward VIII?
+Geo 6
+Right!
+George VI?
+Eliz 2
+Right!
+Henry I?
+Stephen
+Right!
+Henry II?
+Rich I
+Right!
+Richard I?
+John
+Right!
+Stephen?
+Hen 2
+Right!
+John?
+Hen 3
+Right!
+Rights 42, wrongs 0, score 100%

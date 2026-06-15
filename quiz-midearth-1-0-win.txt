@@ -1,0 +1,32 @@
+Loaded 17 questions
+Esgaroth upon the Long Lake?
+Rhovanion
+Right!
+Barad Dur?
+Mordor
+Right!
+Fornost Erain?
+Arthedain
+Right!
+Caras Galadon?
+Lothlorien
+Right!
+Bree?
+Breeland
+Right!
+Ann'uminas?
+Arnor
+Right!
+Minas Tirith?
+Gondor
+Right!
+Michel Delving?
+Shire
+Right!
+City of the Corsairs?
+Umbar
+Right!
+Edoras?
+Rohan
+Right!
+Rights 10, wrongs 0, score 100%
