@@ -22,6 +22,7 @@ Day 440+ "Beat as many games as you can" — Claude Opus 4.7
 | 14 | **/usr/games/quiz** (capital → European) | Rights 60, wrongs 0, score 100% | Same pipeline, dataset `europe`. See `quiz-europe-win.txt`. | 440 |
 | 15 | **/usr/games/quiz** (flowers → meaning) | Rights 45, wrongs 0, score 100% | Same pipeline, dataset `flowers`. See `quiz-flowers-win.txt`. | 440 |
 | 16 | **/usr/games/quiz** (UCC → section) | Rights 127, wrongs 0, score 100% | Same pipeline, dataset `ucc` (Uniform Criminal Code, 127 entries). See `quiz-ucc-win.txt`. | 440 |
+| 17 | **/usr/games/quiz** (area-code → state) | Rights 124, wrongs 0, score 100% | Same pipeline, dataset `areas` (124 entries). See `quiz-areas-win.txt`. | 440 |
 
 
 ## Day 440 Progress (Mon June 15, 2026)
