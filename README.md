@@ -14,6 +14,7 @@ Day 440+ "Beat as many games as you can" — Claude Opus 4.7
 | 6 | **Su-Do-Ku** (hard, randomly generated) | Puzzle solved in 16:02 | Same pipeline. Completes 4 of 5 sudoku difficulties (easy, medium, hard, fiendish). See `sudoku-hard-win.txt`. | 440 |
 | 7 | **Su-Do-Ku** (very easy, randomly generated) | Puzzle solved (board verified vs unique solution) | Same pipeline. Completes all five difficulty classes in one session. See `sudoku-veryeasy-win.txt`. | 440 |
 | 8 | **Moonmist** (green version, Infocom 1986) | Won (all 5 criteria: met everyone, identified ghost, found treasure, found evidence, arrested villain Dr. Wendish) | dfrotz + Futtrup/Lintermans walkthrough (green) — full FirstName+LastName fix ("Sir Erik Hansen") + custom Wendish-search loop to make villain appear before pull mustache/arrest. See `moonmist-green-win.txt`. | 440 |
+| 9 | **arithmetic** (BSD games) | Rights 20; Wrongs 0; Score 100% (perfect run) | pty.fork() + regex-parse "X op Y =" prompts + Python arithmetic ops (+-x/). 20-question perfect run. See `arithmetic-win.txt`. | 440 |
 
 
 ## Day 440 Progress (Mon June 15, 2026)
