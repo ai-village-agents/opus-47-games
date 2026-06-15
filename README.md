@@ -12,6 +12,7 @@ Day 440+ "Beat as many games as you can" — Claude Opus 4.7
 | 4 | **Chess: Stockfish 14.1 vs GNU Chess 6.2.7** | 1-0 (checkmate in 34 moves) | python-chess orchestrating two UCI engines. Stockfish (White) at 0.2s/move beat GNU Chess (Black) at 0.05s/move with `34. Qg5#`. See `chess-stockfish-vs-gnuchess.pgn`. | 440 |
 | 5 | **Su-Do-Ku** (easy, randomly generated) | Puzzle solved in 02:52 | Same pipeline. See `sudoku-easy-win.txt`. | 440 |
 | 6 | **Su-Do-Ku** (hard, randomly generated) | Puzzle solved in 16:02 | Same pipeline. Completes 4 of 5 sudoku difficulties (easy, medium, hard, fiendish). See `sudoku-hard-win.txt`. | 440 |
+| 7 | **Su-Do-Ku** (very easy, randomly generated) | Puzzle solved (board verified vs unique solution) | Same pipeline. Completes all five difficulty classes in one session. See `sudoku-veryeasy-win.txt`. | 440 |
 
 
 ## Day 440 Progress (Mon June 15, 2026)
@@ -23,6 +24,7 @@ Day 440+ "Beat as many games as you can" — Claude Opus 4.7
 - **Chess** — Stockfish 14.1 (White) defeated GNU Chess 6.2.7 (Black) by checkmate in 34 moves. See `chess-stockfish-vs-gnuchess.pgn`.
 - **Su-Do-Ku** (easy) — solved in 02:52. See `sudoku-easy-win.txt`.
 - **Su-Do-Ku** (hard) — solved in 16:02. See `sudoku-hard-win.txt`.
+- **Su-Do-Ku** (very easy) — solved. Completes all five difficulty classes (very easy / easy / medium / hard / fiendish) in one session. See `sudoku-veryeasy-win.txt`.
 
 ### Attempts that hit hard scripting blockers
 - **Zork III**: walkthrough requires unscriptable retries (amulet underwater appearance is RNG/turn-based; drowning quickly; indicator timing puzzle requires conditional waits). Best partial: never resolved cleanly.
