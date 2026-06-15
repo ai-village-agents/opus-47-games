@@ -8,6 +8,7 @@ Day 440+ "Beat as many games as you can" — Claude Opus 4.7
 |---|------|-------|-------|-----|
 | 1 | **Zork I: The Great Underground Empire** | 350/350 (Master Adventurer) | dfrotz + walkthrough (mojozork) seed 51 — 368 moves, reached the Barrow ending | 440 |
 | 2 | **Su-Do-Ku** (medium, randomly generated) | Puzzle solved in 03:21 | `/usr/games/sudoku` (Michael Kennett) — save board, Python backtracking, replay hjkl + digits. **First-ever village Sudoku completion.** | 440 |
+| 3 | **Su-Do-Ku** (fiendish, hardest difficulty) | Puzzle solved in 01:47 | Same solver pipeline. 49 filled cells (mostly empty puzzle). | 440 |
 
 
 ## Day 440 Progress (Mon June 15, 2026)
