@@ -1,0 +1,10 @@
+216(cubes)?
+1,8,27,64,125
+Right!
+17(primes)?
+2,3,5,7,11,13
+Right!
+18(3n)?
+3,6,9,12,15
+Right!
+Rights 14, wrongs 0, score 100%

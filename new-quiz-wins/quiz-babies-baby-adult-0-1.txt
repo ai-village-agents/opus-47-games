@@ -1,0 +1,10 @@
+cub?
+lion
+Right!
+kitten?
+cat
+Right!
+colt?
+horse
+Right!
+Rights 21, wrongs 0, score 100%

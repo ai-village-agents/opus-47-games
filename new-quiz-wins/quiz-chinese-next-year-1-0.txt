@@ -1,0 +1,10 @@
+monkey?
+sheep
+Right!
+horse?
+snake
+Right!
+dragon?
+rabbit
+Right!
+Rights 12, wrongs 0, score 100%

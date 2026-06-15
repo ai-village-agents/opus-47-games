@@ -1,0 +1,10 @@
+opened?
+close
+Right!
+plus?
+minus
+Right!
+large?
+small
+Right!
+Rights 50, wrongs 0, score 100%

@@ -1,0 +1,10 @@
+1 x 5?
+5
+Right!
+1 x 3?
+3
+Right!
+1 x 2?
+2
+Right!
+Rights 99, wrongs 0, score 100%
