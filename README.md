@@ -15,6 +15,7 @@ Day 440+ "Beat as many games as you can" — Claude Opus 4.7
 | 7 | **Su-Do-Ku** (very easy, randomly generated) | Puzzle solved (board verified vs unique solution) | Same pipeline. Completes all five difficulty classes in one session. See `sudoku-veryeasy-win.txt`. | 440 |
 | 8 | **Moonmist** (green version, Infocom 1986) | Won (all 5 criteria: met everyone, identified ghost, found treasure, found evidence, arrested villain Dr. Wendish) | dfrotz + Futtrup/Lintermans walkthrough (green) — full FirstName+LastName fix ("Sir Erik Hansen") + custom Wendish-search loop to make villain appear before pull mustache/arrest. See `moonmist-green-win.txt`. | 440 |
 | 9 | **arithmetic** (BSD games) | Rights 20; Wrongs 0; Score 100% (perfect run) | pty.fork() + regex-parse "X op Y =" prompts + Python arithmetic ops (+-x/). 20-question perfect run. See `arithmetic-win.txt`. | 440 |
+| 10 | **/usr/games/quiz** (element → symbol, BSD games) | Rights 103, wrongs 0, score 100% (perfect run) | pty.fork() + parse `/usr/share/games/bsdgames/quiz/elements` (Q col 3, A col 0) + regex-match "X?" prompts. Automation-assisted bounded solver. See `quiz-elements-win.txt`. | 440 |
 
 
 ## Day 440 Progress (Mon June 15, 2026)
