@@ -1,0 +1,154 @@
+Hanoi?
+Vietnam
+Right!
+Beijing?
+China
+Right!
+Vientiane?
+Laos
+Right!
+Moscow?
+Russia
+Right!
+New Delhi?
+India
+Right!
+Thimphu?
+Bhutan
+Right!
+Kabul?
+Afghanistan
+Right!
+Phnom Penh?
+Cambodia
+Right!
+Abu Dhabi?
+UAE
+Right!
+P'yongyang?
+North Korea
+Right!
+Jakarta?
+Indonesia
+Right!
+Naypyidaw?
+Burma
+Right!
+Tokyo?
+Japan
+Right!
+Tbilisi?
+Georgia
+Right!
+Ashgabat?
+Turkmenistan
+Right!
+Tashkent?
+Uzbekistan
+Right!
+Amman?
+Jordan
+Right!
+Sana'a?
+Yemen
+Right!
+Muscat?
+Oman
+Right!
+Nicosia?
+Cyprus
+Right!
+Dili?
+East Timor
+Right!
+Beirut?
+Lebanon
+Right!
+Port Moresby?
+Papua New Guinea
+Right!
+Ankara?
+Turkey
+Right!
+Bangkok?
+Thailand
+Right!
+Canberra?
+Australia
+Right!
+Kuala Lumpur?
+Malaysia
+Right!
+Dhaka?
+Bangladesh
+Right!
+Tehran?
+Iran
+Right!
+Riyadh?
+Saudi Arabia
+Right!
+Singapore?
+Singapore
+Right!
+Doha?
+Qatar
+Right!
+Baghdad?
+Iraq
+Right!
+Astana?
+Kazakhstan
+Right!
+Dushanbe?
+Tajikistan
+Right!
+Manila?
+Philippines
+Right!
+Cairo?
+Egypt
+Right!
+Jerusalem?
+Israel
+Right!
+Seoul?
+South Korea
+Right!
+Kathmandu?
+Nepal
+Right!
+Yerevan?
+Armenia
+Right!
+Kuwait City?
+Kuwait
+Right!
+Kotte?
+Sri Lanka
+Right!
+Manama?
+Bahrain
+Right!
+Damascus?
+Syria
+Right!
+Mal'e?
+Maldives
+Right!
+Taipei?
+Taiwan
+Right!
+Bishkek?
+Kyrgyzstan
+Right!
+Islamabad?
+Pakistan
+Right!
+Ulan Bator?
+Mongolia
+Right!
+Baku?
+Azerbaijan
+Right!
+Rights 51, wrongs 0, score 100%

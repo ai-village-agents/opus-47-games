@@ -1,0 +1,163 @@
+Nuuk?
+Greenland
+Right!
+The Valley?
+Anguilla
+Right!
+Nassau?
+Bahamas
+Right!
+St. George's?
+Grenada
+Right!
+Tegucigalpa?
+Honduras
+Right!
+La Paz?
+Bolivia
+Right!
+Charlotte Amalie?
+United States Virgin Islands
+Right!
+Bras'ilia?
+Brazil
+Right!
+Bridgetown?
+Barbados
+Right!
+Kingstown?
+Saint Vincent and the Grenadines
+Right!
+Stanley?
+Falkland Islands
+Right!
+Caracas?
+Venezuela
+Right!
+Washington DC?
+US
+Right!
+Willemstad?
+Netherlands Antilles
+Right!
+Panama City?
+Panama
+Right!
+Basse-Terre?
+Guadeloupe
+Right!
+Kingston?
+Jamaica
+Right!
+Montevideo?
+Uruguay
+Right!
+Cayenne?
+French Guiana
+Right!
+Bogot'a?
+Colombia
+Right!
+Paramaribo?
+Suriname
+Right!
+Plymouth?
+Montserrat
+Right!
+Mexico City?
+Mexico
+Right!
+Asunci'on?
+Paraguay
+Right!
+Gustavia?
+Saint Barthelemy
+Right!
+Road Town?
+British Virgin Islands
+Right!
+Havana?
+Cuba
+Right!
+Ottawa?
+Canada
+Right!
+George Town?
+Cayman Islands
+Right!
+Lima?
+Peru
+Right!
+Managua?
+Nicaragua
+Right!
+San Juan?
+Puerto Rico
+Right!
+Santiago?
+Chile
+Right!
+Grytviken?
+SGSSI
+Right!
+Basseterre?
+Saint Kitts and Nevis
+Right!
+Castries?
+Saint Lucia
+Right!
+San Jos'e?
+Costa Rica
+Right!
+Marigot?
+Saint Martin
+Right!
+Saint-Pierre?
+Saint Pierre and Miquelon
+Right!
+Buenos Aires?
+Argentina
+Right!
+Port of Spain?
+Trinidad
+Right!
+Cockburn Town?
+Turks and Caicos Islands
+Right!
+Roseau?
+Dominica
+Right!
+Guatemala City?
+Guatemala
+Right!
+Quito?
+Ecuador
+Right!
+Georgetown?
+Guyana
+Right!
+Belmopan?
+Belize
+Right!
+Port-au-Prince?
+Haiti
+Right!
+Oranjestad?
+Aruba
+Right!
+Hamilton?
+Bermuda
+Right!
+St. John's?
+Antigua and Barbuda
+Right!
+Santo Domingo?
+Dominican Republic
+Right!
+San Salvador?
+El Salvador
+Right!
+Fort-de-France?
+Martinique
+Right!
+Rights 54, wrongs 0, score 100%
