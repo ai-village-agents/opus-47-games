@@ -1,0 +1,1368 @@
+Using normal formatting.
+Loading /home/computeruse/games/wishbringer.z3.
+
+
+"Behind you!" cries the Princess. "It's a trap!"
+
+Too late. The drawbridge crashes shut against the tower wall. You turn to face
+your enemy, and find yourself staring into the open maw of Thermofax.
+
+Only your Magick sword can save you now. You swing it high, speak the Word and
+stand unhurt as the blade absorbs the searing dragon-breath.
+
+The reptile bellows with rage and flaps its wings to fan the fire in its belly.
+You are advancing, sword poised to strike, when a familiar voice shatters the
+daydream and stays your mighty hand...
+
+WISHBRINGER
+Interactive Fantasy for Beginners
+Copyright (C)1985 Infocom, Inc. All rights reserved.
+Wishbringer is a trademark of Infocom, Inc.
+Release 68 / Serial Number 850501
+
+Hilltop
+You're on a hilltop overlooking the seaside village of Festeron.
+
+To the south stands the Festeron Post Office. It's a little brick building with
+a neatly-trimmed lawn. The Post Office door stands invitingly open.
+
+Roads run down the hill to the east and west. There's a signpost nearby.
+
+Somebody inside the Post Office is calling you.
+
+Okay, what do you want to do now?
+>
+
+Post Office
+This is the lobby of the Festeron Post Office. The walls are lined with small,
+private mailboxes and wanted posters. A service counter runs along the entire
+length of the room.
+
+Your boss, Mr. Crisp, is behind the service counter reading other people's
+postcards.
+
+Mr. Crisp hides the postcards away as you enter. "Where have you been?" he barks
+angrily. "Daydreaming again, eh? I've been looking everywhere for you!"
+
+(Your score just went up by 1 point! Your total score is 1 out of 100.)
+
+What next?
+>
+
+Post Office
+This is the lobby of the Festeron Post Office. The walls are lined with small,
+private mailboxes and wanted posters. A service counter runs along the entire
+length of the room.
+
+Your boss, Mr. Crisp, is watching you impatiently.
+
+Mr. Crisp reaches under the service counter and pulls out a mysterious envelope.
+"We just got this Special Delivery," he snarls, tossing it onto the service
+counter. "I want you to drop it off right away. That means NOW!"
+
+What next?
+>
+
+Taken.
+
+(Your score just went up by 5 points! Your total score is 6 out of 100.)
+
+Mr. Crisp drums his fingers on the service counter impatiently. "Scram! The
+Magick Shoppe closes at five o'clock!"
+
+What next?
+>
+
+As you leave the Post Office, somebody slams and locks the door behind you.
+
+Hilltop
+
+What next?
+>
+
+Outside Cemetery
+You're standing next to an open iron gate that leads west into the Festeron
+Cemetery. A road runs east to the top of Post Office Hill.
+
+What next?
+>The cemetery is a fearful place. Are you sure you want to go in there?
+
+(Please type YES or NO.) >
+
+You have been warned.
+
+Creepy Corner
+You're in a creepy corner of the Festeron Cemetery, surrounded by silent
+tombstones. An iron gate opens to the east, and a narrow lane wanders north.
+
+What next?
+>
+
+Spooky Copse
+A copse of willow trees makes this part of the cemetery look really spooky.
+Narrow lanes wander south and west.
+
+There's an open grave nearby, freshly dug, with a tombstone erected next to it.
+
+An old gravedigger is resting under a willow tree.
+
+The gravedigger nods a greeting as you approach.
+
+What next?
+>
+
+He's the town gravedigger, a village fixture since before you were born.
+
+The gravedigger notices the mysterious envelope you're holding. "That's a mighty
+mysterious-lookin' envelope you got there," he says. "Let's have a look at it."
+
+What next?
+>
+
+(to the gravedigger)
+The gravedigger peers at the address on the mysterious envelope. "Hmm," he
+mutters, handing it back to you. "Could've sworn I buried that old woman years
+ago."
+
+(You are again holding the mysterious envelope.)
+
+"Couldn't ask for a nicer day for diggin' graves."
+
+What next?
+>
+
+It's six feet deep and freshly dug. You can see an old bone inside.
+
+"Got to go," says the gravedigger, picking up his shovel. "See you soon."
+
+The old man ambles away to the west.
+
+(You won't see the "What next?" prompt any more.)
+>
+
+Open Grave
+You're at the bottom of an open grave, surrounded by six-foot walls of dirt.
+
+There's an old bone here.
+
+>
+
+Taken.
+
+(Your score just went up by 1 point! Your total score is 7 out of 100.)
+
+>
+
+With great difficulty, you manage to climb out of the open grave.
+
+Spooky Copse
+
+>
+
+Creepy Corner
+
+>
+
+Whew! That cemetery sure is spooky.
+
+Outside Cemetery
+
+>
+
+Hilltop
+
+>
+
+Outside Cottage
+You're outside the cottage of Miss Voss, the town librarian. The road turns
+north toward the village, and bends upward to the summit of Post Office Hill.
+
+As you approach the cottage you are greeted by the tiniest poodle you've ever
+seen in your entire life. It charges across the street, yapping angrily and
+showing its sharp little teeth.
+
+You can smell the poodle's hot breath as it yaps.
+
+>
+
+The poodle tests the old bone with its tongue, lies down and begins to gnaw on
+it, keeping a red eye on you.
+
+(Your score just went up by 3 points! Your total score is 10 out of 100.)
+
+>
+
+The poodle yaps a threat as you back away.
+
+Rotary South
+This is the south side of the Festeron Rotary. A road branches south, towards
+Post Office Hill.
+
+The Festeron Public Library, famous for its museum of local historic artifacts,
+stands proudly on the nearby corner.
+
+Miss Voss, the town librarian, is locking the library door as you approach.
+"Just the person I was looking for!" she exclaims, smiling brightly.
+
+>
+
+She's holding a purse and an armful of books.
+
+Miss Voss retrieves a violet slip of paper from the depths of her purse. "Be a
+sweetie and give this note to your dear boss, Mr. Crisp," she coos, holding the
+note out to you. "I'd be ever so much obliged."
+
+>
+
+Taken.
+
+(Your score just went up by 3 points! Your total score is 13 out of 100.)
+
+Miss Voss hurries away down the street. "Thanks! Toody-loo!"
+
+>
+
+Park
+You're standing in a circular park, surrounded by the Festeron Rotary. Walks
+converge from four directions on a shallow marble fountain, filled with
+sparkling water.
+
+A statue stands in the middle of the fountain.
+
+>
+
+You can see a gold coin and a goldfish in the fountain.
+
+>
+
+Taken.
+
+(Your score just went up by 1 point! Your total score is 14 out of 100.)
+
+>
+
+Rotary East
+You're on the eastern side of the Festeron Rotary. A street branches off to the
+east, towards the bay.
+
+On the corner nearby stands a charming little movie theater. Showtimes and
+admission prices are listed on a schedule near the closed entrance, and a
+marquee announces the current feature.
+
+>
+
+Pleasure Wharf
+You're standing near the entrance to the Pleasure Wharf, the town's most popular
+tourist attraction. The Wharf extends eastward into Festeron Bay, and a tidal
+beach curves north along the shore.
+
+To the south stands a ramshackle old building. Colorful lights, curious
+electronic sounds and a neon sign beckon you through the open entrance.
+
+A big mailbox is nearby.
+
+>
+
+Wharf's End
+The sea-worn planks of the Festeron Pleasure Wharf end abruptly a few feet to
+the east. You're surrounded by the blue, sparkling waters of Festeron Bay.
+
+Apparently a careless fisherman has just left the wharf, for lying on the planks
+is a little seahorse, its gills moving in and out with its dying gasps.
+
+The seahorse looks at you with moist, frightened eyes.
+
+>
+
+Taken.
+
+The seahorse opens and closes its little mouth pathetically.
+
+>
+
+Splash!
+
+The seahorse floats without moving for a few anxious moments. Then it springs
+suddenly to life, circling and splashing joyfully in the waves. Before it swims
+away it looks up at you with an unmistakable expression of gratitude.
+
+>
+
+Pleasure Wharf
+
+A big mailbox is nearby.
+
+>
+
+Tidal Pool
+You're on a damp stretch of sand that extends north towards Festeron Point, and
+south to the Pleasure Wharf.
+
+A large conch shell is lying in the sand at your feet.
+
+>
+
+Lighthouse
+This is where the river empties into Festeron Bay. A beach follows the shore of
+the bay to the south, and a path leads west along the riverbank.
+
+A miniature lighthouse, barely ten feet high, stands blinking on the shore
+nearby.
+
+Perched on top of the lighthouse is a pelican, watching you through half-closed
+eyelids.
+
+>
+
+Rocky Path
+You're on a rocky path that runs east and west along the banks of the Festeron
+River. A dense, impenetrable forest borders the south edge of the path.
+
+>
+
+South of Bridge
+This is the south side of a covered bridge that spans the Festeron River. Paths
+lead off to the east and west, and a road leads south to the village.
+
+>
+
+Bridge
+You're on a covered bridge that spans the Festeron River. A sign hangs on an
+arch overhead.
+
+>
+
+North of Bridge
+This is the north side of the Festeron Bridge. Sheer cliff walls rise abruptly
+to the north and west. A path wanders east along the shore of the river.
+
+>
+
+Cliff Bottom
+You're at the bottom of a cliff that rises up from the north bank of the river.
+A steep trail winds upward.
+
+A gnarled tree trunk stands nearby, a lone branch its only adornment.
+
+>
+
+(The trail you're climbing is narrow and twisty. It's a good idea to draw a map
+as you go up.)
+
+Steep Trail
+A steep, rocky trail winds west and downward.
+
+>
+
+Steep Trail
+A steep, rocky trail winds north and east.
+
+>
+
+Steep Trail
+A steep, rocky trail winds south and upward.
+
+>
+
+Steep Trail
+A steep, rocky trail winds east and downward.
+
+>
+
+Steep Trail
+A steep, rocky trail winds south and west.
+
+>
+
+Steep Trail
+A steep, rocky trail winds north and upward.
+
+>
+
+(Your score just went up by 1 point! Your total score is 15 out of 100.)
+
+Cliff Edge
+You're standing high on a rocky cliff, at the top of a steep trail leading
+downward. Looking southwest, you can see the shadow of Post Office Hill creeping
+across the village as the sun sinks into a bank of clouds.
+
+The peaceful scenery is disturbed by a tiny figure emerging from the distant
+Post Office. It stares in your direction for a few moments, checks its wrist and
+shakes a threatening little fist at you.
+
+A little old-fashioned store stands nearby. Its brightly painted shutters and
+thatched roof remind you of something out of a fairy tale. A curiously painted
+sign over the front door reads, "Ye Olde Magick Shoppe."
+
+>
+
+A voice cries, "Come in!"
+
+>
+
+A concealed bell tinkles merrily.
+
+Okay, the Magick Shoppe door is now open.
+
+>
+
+Magick Shoppe
+You're in the front showroom of the Magick Shoppe.
+
+Every inch of wall space is crowded with magic tricks, puzzles and mystical
+paraphernalia. A glass case offers a selection of obscene jokes and naughty
+birthday cards.
+
+In the corner stands an ancient grandfather clock, its dial ornamented with a
+smiling crescent moon and other celestial symbols.
+
+The front door of the Magick Shoppe is wide open. At the west end of the room,
+you can see another exit concealed by a curtain.
+
+A sudden gust of wind slams the Magick Shoppe door closed. A concealed bell
+tinkles merrily.
+
+"Just a moment!" cries a voice behind the curtain.
+
+>
+
+Time passes.
+
+The noisy tick of the grandfather clock is making you uneasy.
+
+>Time passes.
+
+The curtain opens so quickly it makes you jump.
+
+The woman standing before you is older than your oldest aunt. Her thin, pale
+face and bony hands make her look fragile, like a fading signature in an antique
+book. But her eyes remember everything they have ever seen.
+
+You appraise one another for a long moment before she breaks the ice. "Welcome
+in, welcome!" she chortles. "Don't get many visitors this late in the day."
+
+The room seems oddly quiet all of a sudden.
+
+>(Your score just went up by 5 points! Your total score is 20 out of 100.)
+
+The old woman turns pale as she takes the mysterious envelope from you. "It's
+been a long, long time since I last saw this handwriting," she murmurs, turning
+it over in her hands. "Hoped I never would again."
+
+She starts to open the mysterious envelope, thinks better of it and hands it
+back to you. "Will you open it up and read it to me?" she pleads. "I'll never
+find my glasses in this mess."
+
+(You are again holding the mysterious envelope.)
+
+>(You should now open the mysterious envelope in your Wishbringer package.)
+
+Opening the mysterious envelope reveals a letter.
+
+"Go ahead, dear. Read the letter to me, please. I'm waiting."
+
+>(Your score just went up by 1 point! Your total score is 21 out of 100.)
+
+The old woman is motionless as you read. Glancing up, you see tears of anger
+forming; but she turns away as your eyes meet.
+
+"Kidnapped," she whispers after a long silence. She paces aimlessly around the
+room, deep in thought.
+
+"Many seek to gain the Stone of Dreams," she mutters, mostly to herself. "Yet
+few can imagine the price. For years I have fought to conceal it from the Evil
+One and others like her. My youth, my home and family, all were forfeited for
+its protection. And now," her voice breaking with emotion, "now it claims my
+only companion."
+
+Impulsively, the woman snatches away the letter and envelope and crumbles them
+in her trembling hands. "No one is strong enough to guard Wishbringer alone."
+
+>Time passes.
+
+The old woman makes an effort to compose herself.
+
+"Thank you for coming all this way for me," she says, reaching up to a shelf
+full of cheap gags. "I know I'm not supposed to tip you, but take this little
+trinket anyway."
+
+The woman holds out a small metal can for you to take.
+
+>Taken.
+
+(Your score just went up by 3 points! Your total score is 24 out of 100.)
+
+"It's getting Dark outside," the old woman remarks, and you can almost hear the
+capital D. "Maybe you should be getting back to town."
+
+>Time passes.
+
+You hear a rattling noise in the can.
+
+The old woman hobbles over to the Magick Shoppe door and opens it. A concealed
+bell tinkles merrily.
+
+"Keep a sharp eye out for my cat, won't you?" She speaks the words slowly and
+distinctly. "Bring her to me if you find her. She's black as night from head to
+tail, except for one little white spot... right HERE."
+
+The old woman touches the middle of your forehead with her finger. The light
+outside dims suddenly, like a cloud passing over the sun.
+
+>Your body seems unwilling to respond.
+
+The old woman takes away her finger. Your forehead is tingling.
+
+"The Stone of Dreams can help you in your search. I cannot reveal the place
+where I have hidden it, for the Evil One would see your thoughts and take the
+treasure for herself. You must discover it alone, and rely on legends to
+instruct you in its mysteries."
+
+As she speaks, the old woman gently leads you through the door of the Magick
+Shoppe. She pauses before closing the door.
+
+"Return the cat to me, and Wishbringer shall be yours.
+
+"Her name is Chaos."
+
+A concealed bell tinkles merrily.
+
+Cliff Edge
+You're standing high on a rocky cliff, at the top of a steep trail leading
+
+
+
+downward.
+
+The surrounding landscape has disappeared under a thick blanket of evening fog.
+All the familiar buildings and landmarks are completely hidden; only the summit
+of Post Office Hill is high enough to pierce the cloud, rising like a lonely
+island in a sea of mist...
+
+... an island with a tower on it.
+
+There's a TOWER where the Post Office used to be! The massive outline is hard to
+make out against the twilight sky. But the longer you stare, the clearer and
+more frightening it becomes.
+
+The Magick Shoppe stands nearby.
+
+>
+
+As you descend the trail you are immediately engulfed in...
+
+Fog
+You're lost in a thick cloud of fog.
+
+>
+
+Fog
+You're lost in a thick cloud of fog.
+
+>
+
+Fog
+You're lost in a thick cloud of fog.
+
+>
+
+Fog
+You're lost in a thick cloud of fog.
+
+>
+
+Fog
+You're lost in a thick cloud of fog.
+
+>
+
+Fog
+You're lost in a thick cloud of fog.
+
+>
+
+A sudden gust of wind dissolves the fog and clears your vision.
+
+Cliff Bottom
+You're at the bottom of a cliff that rises up from the north bank of the river.
+
+A gnarled tree trunk stands nearby, a lone branch its only adornment. A vulture
+perched on top is watching every move you make.
+
+>
+
+Crack! The dead branch snaps off the gnarled tree trunk and falls to the ground
+with a thud. Visibly annoyed, the vulture spreads its wings and soars away over
+the river.
+
+>
+
+North of Bridge
+This is the north side of the Witchville Bridge. Sheer cliff walls rise abruptly
+to the north and west. A path wanders east along the shore of the river.
+
+A rickety toll gate has been thrown up across the entrance to the covered
+bridge. A handpainted sign is nailed to the middle of the closed gate.
+
+Standing near the toll gate is an ugly, gnomelike creature. A less original
+story would probably refer to it as a troll.
+
+>
+
+Yow! When you open the can a real, live rattlesnake leaps out! It squirms about
+angrily for a few moments, turns to hiss at you and slithers out of sight.
+
+The metal can clatters to the ground.
+
+A scream of terror echoes off the cliffs as the troll runs away across the
+covered bridge.
+
+(Your score just went up by 3 points! Your total score is 27 out of 100.)
+
+>
+
+Taken.
+
+>
+
+The metal can rattles again. It sounds like there are nuts inside, although it
+seems to be empty.
+
+>
+
+The metal can appears to have a false bottom. You could probably get it out by
+squeezing the can.
+
+>
+
+The false bottom is wedged tightly into the metal can. You might be able to
+loosen it by squeezing harder... harder!...
+
+Pop! A small stone drops out of the squashed can and lands at your feet.
+
+>
+
+Taken.
+
+(Your score just went up by 5 points! Your total score is 32 out of 100.)
+
+As your fingers close around the small stone it begins to glow with an eerie
+violet-white radiance.
+
+>
+
+Okay, the toll gate is now open.
+
+>
+
+Bridge
+You're on a covered bridge that spans the Witchville River. A sign hangs on an
+arch overhead.
+
+>
+
+South of Bridge
+This is the south side of a covered bridge that spans the Witchville River.
+Paths lead off to the east and west, and a road leads south to the village.
+
+>
+
+River Outlet
+This is where the lake empties into the Witchville River. A road leads south
+along the edge of the lake, and bends east to follow the river bank. A narrow
+trail leads upward to the top of Lookout Hill.
+
+>
+
+Lake Edge
+You're on the sandy shore of the lake. A road heads east towards the village,
+and another runs north along the edge of the lake. Looking south, you can see a
+closed iron gate leading into the Witchville Cemetery.
+
+Misty Island, its outline shrouded in fog, is visible far across the water.
+
+You can see a narrow pit near the edge of the lake. Animal tracks are visible in
+the sand next to the pit.
+
+>
+
+The pit is more than five feet deep. You can see a platypus in it.
+
+A rusty "click!" draws your eyes to the iron gate. You watch as it slowly creaks
+open, all by itself!
+
+>(You don't seem to be holding that!)
+
+>You can't see any branch here!
+
+>
+
+You find nothing interesting.
+
+You can hear the tramp of marching boots to the east.
+
+>You can't see any whistle here!
+
+>You can't see any whistle here!
+
+>You can't see any castle here!
+
+>
+
+Time passes.
+
+>You can't see any hat here!
+
+>
+
+Time passes.
+
+>You can't see any whistle here!
+
+>
+
+Rotary West
+You're on the west side of the Witchville Rotary. A street branches west,
+towards the lake.
+
+The Police Station stands on a nearby corner. It's a grim little building with a
+sign over the open entrance.
+
+>
+
+Park
+You're standing in a circular park, surrounded by the Witchville Rotary. Walks
+converge from four directions on a neglected marble fountain, filled with greasy
+water.
+
+A statue stands in the middle of the fountain.
+
+>
+
+Rotary North
+This is the northern side of the Witchville Rotary. A road leads north, towards
+the river.
+
+On the corner stands a broken-down old church that looks as if it hasn't been
+used for years.
+
+You can hear the tramp of marching boots to the north.
+
+>
+
+South of Bridge
+
+The night is filled with rhythmic thunder, and a platoon of gigantic leather
+army boots marches into view. It's the Boot Patrol!
+
+You're immediately surrounded, tied, gagged and dragged before an especially
+tall Boot. "What have we here?" he hisses. "Out after curfew? Tsk, tsk, tsk. I
+wonder what Sgt. MacGuffin will say about this."
+
+You're thrown into an especially smelly Boot and carried, kicking and screaming,
+to the lobby of the Police Station.
+
+Sgt. MacGuffin glares at you as the boots dump you on the floor. "What's this?"
+he demands impatiently.
+
+"A nightcrawler," hisses the Tall Boot, giving you a vicious little kick.
+"Outside after curfew. Shall I feed it to the sharks?"
+
+Sgt. MacGuffin shakes his head. "Later. The Tower wants all prisoners held for
+questioning." He turns back to his work. "Cell Three."
+
+Jail Cell
+You're locked inside a damp, uncomfortable jail cell. Its thick steel door and
+stone walls offer little hope for escape.
+
+The only furnishing is a hard bunk against the wall with a thick blanket on it.
+
+You can see a violet note, a gold coin, a squashed can and a small stone
+(providing light) here.
+
+The small stone stops glowing.
+
+>
+
+There's no exit that way.
+
+>
+
+There's no exit that way.
+
+>
+
+Okay, you moved the bunk away from the wall. There's a dark, narrow hole in the
+floor.
+
+>
+
+Taken.
+
+(Your score just went up by 3 points! Your total score is 35 out of 100.)
+
+>
+
+The bunk: That's impossible.
+The violet note: Taken.
+The gold coin: Taken.
+The squashed can: Taken.
+The small stone: Taken.
+
+You can hear an agonized cry from an adjacent cell.
+
+The small stone begins to glow again.
+
+>
+
+The squashed can: Okay, the squashed can disappears into the hole.
+The gold coin: Okay, the gold coin disappears into the hole.
+The violet note: Okay, the violet note disappears into the hole.
+The thick blanket: Okay, the thick blanket disappears into the hole.
+
+You can hear somebody howling with pain from an adjacent cell.
+
+>
+
+With great effort, you manage to squeeze yourself into the hole.
+
+Underground
+You're in a smelly underground chamber. Cold tunnels wander away to the north
+and west.
+
+Faint light is streaming in from a narrow hole overhead.
+
+You can see a thick blanket, a violet note, a gold coin and a squashed can here.
+
+>
+
+The thick blanket: Taken.
+The violet note: Taken.
+The gold coin: Taken.
+
+>
+
+Underground
+You're in a dark underground chamber. Cold tunnels wander away to the south,
+east and west.
+
+>
+
+Grue's Nest
+You have stumbled into the nesting place of a family of grues. Congratulations.
+Few indeed are the adventurers who have entered a grue's nest and lived as long
+as you have.
+
+Everything is littered with rusty swords of elvish workmanship, piles of bones
+and other debris. A closed refrigerator stands in one corner of the nest, and
+something... a small, dangerous-looking little beast... is curled up in the
+other corner.
+
+The only exit is to the west. Hope you survive long enough to use it.
+
+Snoring fitfully, the little beast turns away from the light of the small stone
+and faces the wall.
+
+>
+
+Okay, the little beast is now covered with the thick blanket.
+
+The creature stirs restlessly for an anxious moment. Then it settles into the
+comfortable darkness of the thick blanket, sighs gently and lies still.
+
+(Your score just went up by 3 points! Your total score is 38 out of 100.)
+
+>
+
+Grue's Nest
+You have stumbled into the nesting place of a family of grues. Congratulations.
+Few indeed are the adventurers who have entered a grue's nest and lived as long
+as you have.
+
+Everything is littered with rusty swords of elvish workmanship, piles of bones
+and other debris. A closed refrigerator stands in one corner of the nest, and
+something is curled up under a thick blanket in the other corner.
+
+The only exit is to the west. Hope you survive long enough to use it.
+
+>
+
+A light inside the refrigerator goes out as you open it.
+
+Opening the refrigerator reveals a bottle and an earthworm.
+
+>
+
+Taken.
+
+(Your score just went up by 3 points! Your total score is 41 out of 100.)
+
+The earthworm squirms with annoyance at your touch.
+
+>
+
+Underground
+
+>
+
+Underground
+You're in a dirty underground chamber. Cold tunnels wander away to the south and
+east.
+
+The surrounding walls are almost obscured by the roots of a mighty tree.
+Overhead you can see the underside of a large stump. It appears to be hinged.
+
+>
+
+Lifting the hinged top of the stump reveals a round hole leading upward into
+moonlight.
+
+>
+
+Lookout Hill
+You're standing at the summit of a high, barren hill. Looking east, you can see
+Witchville Village nestled among the trees. A narrow trail winds down the north
+side of the hill, towards the river.
+
+Crowning the hill is the stump of what must have been a very large and majestic
+oak tree. An opening in the stump leads down into darkness.
+
+A horseshoe is lying in the grass near the stump.
+
+>
+
+River Outlet
+
+>
+
+South of Bridge
+
+>
+
+Rocky Path
+You're on a rocky path that runs east and west along the banks of the Witchville
+River. A shimmering trail leads south into a dense forest.
+
+>
+
+Lighthouse
+This is where the river empties into Witchville Bay. A path leads west along the
+riverbank.
+
+A broken-down old lighthouse, barely ten feet high, stands on the shore nearby.
+
+Perched on top of the lighthouse is a pelican, watching you through half-closed
+eyelids.
+
+>
+
+It's really just an automated beacon, erected by the town to impress tourists.
+There aren't any entrances or openings.
+
+Perched on top of the lighthouse is a pelican, watching you through half-closed
+eyelids.
+
+>You can't see any hat here!
+
+>
+
+Rocky Path
+
+>
+
+South of Bridge
+
+>
+
+Rotary North
+
+>
+
+Park
+
+>
+
+Rotary East
+You're on the eastern side of the Witchville Rotary. A street branches off to
+the east, towards the bay.
+
+On the corner nearby stands a sleazy little movie theater. Showtimes and
+admission prices are listed on a schedule near the open entrance, and a marquee
+announces the current feature.
+
+Miss Voss, the former town librarian, is peering at you suspiciously.
+
+You can hear the tramp of marching boots to the east.
+
+>
+
+Miss Voss snatches away your gold coin with her bony fingers and hands you a
+ticket.
+
+(You are now holding a ticket.)
+
+(Your score just went up by 3 points! Your total score is 44 out of 100.)
+
+>
+
+Theater Lobby
+You're standing in the lobby of the movie theater. A short corridor leads north
+into darkness. Sound effects and music can be heard drifting down the corridor.
+
+The gravedigger is standing near the corridor, a large cardboard carton at his
+feet.
+
+>
+
+The gravedigger takes the ticket, gestures absently to the empty carton and
+leans back to daydream.
+
+>
+
+The gravedigger nods as you pass.
+
+Inside Theater
+This is a movie theater unlike any you've ever seen! The seats are wide, deep
+and comfortable. The aisles are spotless. The air is clear of smoke, and the
+screen is dramatically large. A chill goes up your spine as you realize how
+alien your universe has become.
+
+There's a noisy movie playing on the screen. A dark corridor leads out to the
+lobby.
+
+The picture on the screen is fuzzy and hard to watch.
+
+>
+
+Done. The seat is even more comfortable than it looks.
+
+All you can see on the screen is a confusing double-image.
+
+>
+
+Hmm. This place isn't completely spotless. You just discovered a used pair of 3D
+glasses under a seat.
+
+The screen image is a meaningless blur of colored light.
+
+>
+
+(Presumably, you mean the pair of 3D glasses.)
+Taken.
+
+(Your score just went up by 3 points! Your total score is 47 out of 100.)
+
+The picture on the screen is fuzzy and hard to watch.
+
+>
+
+(Presumably, you mean the pair of 3D glasses.)
+Wow! As you put on the glasses the picture on the screen fuses into a solid, 3-
+dimensional image.
+
+The movie screen shows an evil woman squinting through an antique telescope. A
+laboratory full of bubbling 3D chemicals is visible in the background.
+
+>
+
+Inside Theater
+This is a movie theater unlike any you've ever seen! The seats are wide, deep
+and comfortable. The aisles are spotless. The air is clear of smoke, and the
+screen is dramatically large. A chill goes up your spine as you realize how
+alien your universe has become.
+
+There's a noisy movie playing on the screen. A dark corridor leads out to the
+lobby.
+
+A 3D vulture lands on the woman's shoulder and croaks a secret into her ear. An
+evil eyebrow rises slowly as she listens.
+
+>
+
+Inside Theater
+This is a movie theater unlike any you've ever seen! The seats are wide, deep
+and comfortable. The aisles are spotless. The air is clear of smoke, and the
+screen is dramatically large. A chill goes up your spine as you realize how
+alien your universe has become.
+
+There's a noisy movie playing on the screen. A dark corridor leads out to the
+lobby.
+
+The old woman swings the 3D antique telescope around (narrowly missing your
+nose) and peers into it again. A point-of-view shot reveals what the 'scope is
+focused on: a small movie theater, remarkably similar to the one you're in right
+now.
+
+>
+
+With a reluctant sigh, you rise from the comfortable seat.
+
+The antique telescope zooms in on the entrance to the movie theater. A dead
+ringer for Miss Voss looks up and waves timidly at the camera.
+
+>
+
+(Presumably, you mean the pair of 3D glasses.)
+Okay, you're no longer wearing the pair of 3D glasses.
+
+All you can see on the screen is a confusing double-image.
+
+>
+
+Theater Lobby
+
+>Are you sure you want to leave the movie theater? The gravedigger might not let
+you in again without another ticket!
+
+(Please type YES or NO.) >
+
+"Come again!" sneers the gravedigger as you leave.
+
+Rotary East
+
+Out of the corner of your eye, you notice Miss Voss squinting carefully at the
+gold coin you gave her. She looks at you suspiciously, picks up a telephone and
+begins to dial rapidly.
+
+>
+
+Park
+
+>
+
+It lands in the fountain with a splash.
+
+The piranha snatches away the worm and swims to the far side of the fountain to
+devour it.
+
+>
+
+Taken.
+
+(Your score just went up by 3 points! Your total score is 50 out of 100.)
+
+>
+
+Rotary East
+
+Miss Voss is talking urgently with someone on the phone. She doesn't take her
+eyes off you for a moment.
+
+>
+
+Pleasure Wharf
+You're standing near the remains of the Pleasure Wharf. The Wharf extends
+eastward into Witchville Bay.
+
+To the south stands a ramshackle old building. Colorful lights, curious
+electronic sounds and a neon sign beckon you through the open entrance.
+
+A big mailbox is nearby.
+
+A voice behind you growls, "I'm hungry!" You turn to face the sound, but there's
+nobody here except you.
+
+>
+
+Video Arcade
+This old building is the home of a sleazy arcade, lined with coin-op video
+games. The machines are crowded with half-crazed, stunted humanoids, who pay no
+attention to you as they satisfy their thirst for electric violence.
+
+One machine in the corner appears to be deserted.
+
+A sign on the wall says, "All Games One Token."
+
+>
+
+The brass token disappears into the slot.
+
+Ding! You hear a pleasant electric chime, and a blinking star appears on the
+video screen.
+
+(Your score just went up by 1 point! Your total score is 51 out of 100.)
+
+(This might be a good time to SAVE your story position.)
+
+>
+
+Bing! You moved the blinking star one square to the left.
+
+>
+
+Bing! You moved the blinking star one square to the left.
+
+>
+
+Bing! You moved the blinking star one square downward.
+
+>
+
+Bing! You moved the blinking star one square downward.
+
+>Are you sure you want to push the big red button?
+
+(Please type YES or NO.) >The stunted humanoids in the arcade hold their breath as your hand touches the
+flashing button. This might be a trap! You don't really want to press that big
+red button, do you?
+
+(Please type YES or NO.) >(Hope you saved your story position.)
+
+A sudden power drain makes all the other games in the arcade go dim. Blue sheets
+of energy leap from the game machine, surrounding you in an incandescent aura.
+You can feel your molecules being taken apart one at a time, analyzed, modulated
+and broadcast through space. It is not a pleasant sensation.
+
+Hilltop
+You're on a hilltop overlooking the seaside village of Witchville.
+
+A tower stands in bleak silhouette against the moonlit sky. It rises a hundred
+feet above a barren plateau, and is encircled by a deep moat. The only entrances
+are a closed drawbridge and a dark window near the top.
+
+Roads run down the hill to the east and west. There's a signpost nearby.
+
+A synthetic voice says, "Game Over. Insert Token To Play Again."
+
+(Your score just went up by 5 points! Your total score is 56 out of 100.)
+
+
+
+>
+
+Talking to yourself is said to be a sign of impending mental collapse.
+
+>
+
+The drawbridge is closed.
+
+>
+
+Time passes.
+
+>You can't see Mr Crisp here!
+
+>You can't see any coat here!
+
+>You can't see any key here!
+
+>(You don't seem to be holding that!)
+
+>You can't see any lever here!
+
+>
+
+You're already holding it.
+
+>
+
+The name "Corky" is beautifully handwritten on the outside.
+
+>You can't see any hatch here!
+
+>
+
+You can't go that way.
+
+>You can't see any paintings here!
+
+>
+
+You can't go that way.
+
+>
+
+(Presumably, you mean the pair of 3D glasses.)
+Okay, you're now wearing the pair of 3D glasses.
+
+Fuzziness
+Everything around you appears blurred and blurry.
+
+>You can't see any broom here! Everything is too fuzzy.
+
+>You can't see any panel here! Everything is too blurred.
+
+>You can't see any second switch here! Everything is too fuzzy.
+
+>You can't see any second switch here! Everything is too blurry.
+
+>
+
+It's too fuzzy in that direction.
+
+>
+
+(Presumably, you mean the pair of 3D glasses.)
+Okay, you're no longer wearing the pair of 3D glasses.
+
+Hilltop
+You're on a hilltop overlooking the seaside village of Witchville.
+
+A tower stands in bleak silhouette against the moonlit sky. It rises a hundred
+feet above a barren plateau, and is encircled by a deep moat. The only entrances
+are a closed drawbridge and a dark window near the top.
+
+Roads run down the hill to the east and west. There's a signpost nearby.
+
+>You can't see any crank here!
+
+>
+
+You'd fall down the hill if you went that way.
+
+>
+
+You'd plummet down the hill if you went that way.
+
+>
+
+Outside Cottage
+You're outside the cottage of Miss Voss, the former town librarian. The road
+turns north toward the village, and bends upward to the summit of Post Office
+Hill.
+
+As you approach the cottage you are greeted by the biggest hellhound you've ever
+seen in your entire life. It charges across the street, roaring angrily and
+showing its sharp, bloody fangs.
+
+You can smell the hellhound's hot breath as it roars.
+
+>The hellhound decides that you're only guessing its name, and roars all the
+louder.
+
+>
+
+The hellhound won't let you near the cottage.
+
+The hellhound glares at you through eyes red with hatred.
+
+>
+
+The hellhound won't let you near the cottage.
+
+You can hear the hellhound's sharp, bloody fangs snapping as it nips your heels.
+
+>You can't see any key here!
+
+>
+
+You can't go that way.
+
+The hellhound circles you warily, snarling and growling with menace. It looks
+like it's getting ready to attack!
+
+>
+
+The hellhound won't let you go that way.
+
+With a savage leap, the hellhound lives up to its bloodthirsty reputation.
+
+Looks like the story's over. But don't despair! Interactive fiction lets you
+learn from your mistakes.
+
+Your score is 56 points out of 100, in 147 moves.
+
+Do you want to restart the story, restore a saved position, or quit?
+
+(Type RESTART, RESTORE or QUIT.)
+>
