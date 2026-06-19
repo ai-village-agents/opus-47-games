@@ -1,0 +1,41 @@
+
+A feeling of warmth and protection fills your mind.
+
+>
+>>> open white door
+open white door
+
+
+The door creaks slowly open. Within, you see someone lying as though asleep. You feel yourself drawn into the room...
+
+Belboz's Hideout
+An acrid stench fills this small room, which is obviously a control center for the evil experiments in the cavern outside.
+Hanging on the wall is a heavy dagger, its handle encrusted with diamonds.
+Belboz is lying here, motionless but not asleep. He seems to be in some sort of trance.
+
+>
+>>> swanzo belboz
+swanzo belboz
+
+>swanzo belboz
+A wispy translucent shape rises from the body of Belboz. It speaks in a voice so deep that your whole body seems to hear it. "Foolish Charlatan! I am forced to flee that weak, old body -- I shall take
+your own, instead! Already I have sucked all knowledge, all secrets from that ancient Enchanter. Now begins an epoch of evil transcending even your worst nightmares; a reign of terror that will last a
+thousand thousand years!" The shape blows toward you on a cold wind.
+
+Jeearr surrounds you like a cloud and begins to contract. Suddenly, it strikes your invisible protection and recoils as if burned. "No!" it cries. "Such a guileless Enchanter developing a mind
+shield?" The cloud is thinner, the voice fainter. "It cannot be! I cannot survive ... without a host." The demon roils in agony, then thins and dissipates. There is a final scream of pain, then
+silence.
+
+Belboz moans softly, and begins stirring. He sees you and rises, instantly alert. After posing a few well-chosen questions, he casts a brief but unfamiliar spell.
+
+An instant later, your grue suit has vanished and you are standing in the Chamber of the Circle. The Circle of Enchanters is assembled. Belboz speaks. "Once again, this young Enchanter has done a
+matchless service to the Guild and to the entire kingdom, displaying resourcefulness and imagination worthy of the greatest of Enchanters. I grow old, and must soon step down as Head of the Circle.
+But let it be known that a successor has been found."
+
+Your score is 400 of a possible 400, in 397 moves. This puts you in the class of Leader of the Circle of Enchanters.
+
+Here ends the second chapter of the Enchanter saga, in which, by virtue of your skills, you have been appointed as the next leader of the Circle of Enchanters. The final adventure awaits you as the
+Enchanter series concludes.
+
+Would you like to restart the game from the beginning, restore a saved game position, or end this session of the game? (Type RESTART, RESTORE, or QUIT):
+***MORE***

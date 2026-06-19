@@ -1,0 +1,2138 @@
+
+>>> wait
+Using normal formatting.
+Loading /home/computeruse/games/sorcerer-r18-s860904.z3.
+
+
+You are in a strange location, but you cannot remember how you got here. Everything is hazy, as though viewed through a gauze...
+
+Twisted Forest
+You are on a path through a blighted forest. The trees are sickly, and there is no undergrowth at all. One tree here looks climbable. The path, which ends here, continues to the northeast.
+
+A hellhound is racing straight toward you, its open jaws displaying rows of razor-sharp teeth.
+
+>wait
+
+
+Time passes...
+
+The hellhound reaches you and tears you apart with its powerful teeth.
+
+...and a moment later you wake up in a cold sweat and realize you've been dreaming.
+
+SORCERER
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1984 by Infocom, Inc. All rights reserved.
+SORCERER is a trademark of Infocom, Inc.
+Release 18 / Serial number 860904
+
+Your frotz spell seems to have worn off during the night, and it is now pitch black.
+
+>
+>>> frotz me
+frotz me
+
+
+You are bathed in a sickly yellow light, bright enough to read by.
+
+Your Quarters, in the bed
+This is your chamber in the Hall of the Guild of Enchanters, with a doorway to the west. A private chamber is a great privilege, especially for an Enchanter as young as yourself, but how many
+Enchanters can say they defeated the infamous Krill?
+
+>
+>>> stand up
+stand up
+
+
+You are now on your feet.
+
+>
+>>> w
+w
+
+
+Hallway
+Rooms lie to the east and west from this north-south corridor. A heavy wooden door, currently closed, leads north.
+Tacked to the doorframe of your room is a note, hurriedly scribbled on parchment.
+
+>
+>>> s
+s
+
+
+Hallway
+Rooms lie to the east and west from this north-south corridor. A large marble archway to the south leads into an open area.
+
+>
+>>> s
+s
+
+
+Lobby
+This is the entrance lobby of the Guild Hall. Befitting the status and wealth of the Guild, the lobby is finished with polished Antharian marble, inlaid with intricate patterns of silver leaf. To the
+north is a wide arch, and smaller openings flank the area on the eastern and western sides, as well as the northeastern and northwestern corners. A narrow stair leads downward. Through another arch to
+the south, you can see the entrance steps and the main road into town.
+Affixed to the southern arch is an ornate brass receptacle, intended for use by messengers.
+
+>
+>>> w
+w
+
+
+Store Room
+This is a closet for storage. The only exit is east.
+Among the provisions here is a small ochre-colored vial, closed and labelled with tiny lettering.
+There is a calendar here (providing light).
+There is a depleted matchbook here.
+
+>
+>>> get vial
+get vial
+
+
+Taken.
+
+>
+>>> get matchbook
+get matchbook
+
+
+Taken.
+
+>
+>>> e
+e
+
+
+Lobby
+Affixed to the southern arch is an ornate brass receptacle, intended for use by messengers.
+
+>
+>>> open receptacle
+open receptacle
+
+
+Opened.
+
+>
+>>> put matchbook in receptacle
+put matchbook in receptacle
+
+
+Done.
+
+>
+>>> close receptacle
+close receptacle
+
+
+Closed.
+
+>
+>>> e
+e
+
+
+Library
+This is a study chamber for members of the Guild. Usually, there would be several elder Enchanters patiently training novices, but no one is here at the moment. The only exit is west.
+Lying open on a stand in one corner is a heavy volume, probably a copy of the Encyclopedia Frobizzica.
+The servants have been lax lately, for a scroll is lying among the dust in the corner.
+
+>
+>>> get scroll
+get scroll
+
+
+Taken.
+
+>
+>>> gnusto meef
+gnusto meef
+
+
+Your spell book begins to glow softly. Slowly, ornately, the words of the meef spell are inscribed, glowing even more brightly than the book itself. The book's brightness fades, but the spell remains!
+However, the scroll on which it was written vanishes as the last word is copied.
+
+>
+>>> w
+w
+
+
+Lobby
+Affixed to the southern arch is an ornate brass receptacle, intended for use by messengers.
+
+>
+>>> n
+n
+
+
+Hallway
+
+>
+>>> n
+n
+
+
+Hallway
+Tacked to the doorframe of your room is a note, hurriedly scribbled on parchment.
+
+You are now a bit thirsty.
+
+>
+>>> w
+w
+
+
+Belboz's Quarters
+The personal chamber of Belboz, who presides over the Circle of Enchanters, is appointed with a beautiful woven wall hanging, an exotic morgia plant, and a wide darkwood desk crafted by the artisans
+of Gurth. The hallway lies to the east.
+Pacing back and forth on a perch in the corner is Belboz's prized pet parrot, native to the jungles of Miznia.
+
+"Squawk! You should never have let down your mindshield, you doddering old Enchanter. Squawk!"
+
+>
+>>> look behind hanging
+look behind hanging
+
+
+As you move the tapestry, a key falls out from behind it and lands on the floor.
+
+>
+>>> open drawer
+open drawer
+
+
+Opening the desk drawer reveals an infotater, a journal, and a tiny box.
+
+You are now a bit hungry.
+
+>
+>>> open desk
+open desk
+
+
+It is already open.
+
+"Squawk! This tea is cold! Get me another cup. Squawk!"
+
+>
+>>> get key
+get key
+
+
+Taken.
+
+"Squawk! Where did I leave my spectacles? Squawk!"
+
+>
+>>> get journal
+get journal
+
+
+Taken.
+
+"Squawk! Where did I leave my spectacles? Squawk!"
+
+>
+>>> unlock journal with key
+unlock journal with key
+
+
+The journal springs open.
+
+The Guild Hall doorbell chimes.
+
+>
+>>> open journal
+open journal
+
+
+The journal is already open!
+
+>
+>>> read journal
+read journal
+
+
+You skim through the pages of the journal, a combination diary and notebook. Most of the notations, written in Belboz's familiar flowing script, deal with meetings of the Circle and business of the
+Guild.
+
+There is one interesting entry toward the end of the book. Belboz refers to an ancient and evil force known simply as Jeearr, a demon whose powers could endanger the Circle and possibly the entire
+kingdom. He has decided to conduct some dangerous exploratory experiments, operating alone to shield the Circle from the perils involved.
+
+The last three entries are strange and frightening -- written in a hand quite different from that of Belboz, and in a language totally unfamiliar to you.
+
+On the inside cover is an inscription, written in a light script, which reads "Current code: surmin".
+
+You are now somewhat thirsty.
+
+>
+>>> open vial
+open vial
+
+
+Opening the ochre vial reveals ochre potion.
+
+>
+>>> drink potion
+drink potion
+
+
+The potion was completely tasteless. You no longer feel hungry and thirsty, though.
+
+>
+>>> drop vial
+drop vial
+
+
+Dropped.
+
+"Squawk! This tea is cold! Get me another cup. Squawk!"
+
+>
+>>> drop journal
+drop journal
+
+
+Dropped.
+
+>
+>>> drop key
+drop key
+
+
+Dropped.
+
+"Squawk! Now where can I hide this key? Squawk!"
+
+>
+>>> e
+e
+
+
+Hallway
+Tacked to the doorframe of your room is a note, hurriedly scribbled on parchment.
+
+>
+>>> s
+s
+
+
+Hallway
+
+>
+>>> s
+s
+
+
+Lobby
+Affixed to the southern arch is an ornate brass receptacle, intended for use by messengers.
+
+>
+>>> open receptacle
+open receptacle
+
+
+Opening the receptacle reveals an orange vial, and an issue of Popular Enchanting.
+
+>
+>>> get vial
+get vial
+
+
+Taken.
+
+>
+>>> d
+d
+
+
+Cellar
+You are in the basement of the Guild Hall. A steep, narrow stair leads upward from the southwest corner.
+At the far end of the cellar, draped in cobwebs, is a large trunk. At each corner of its lid is a button: a black button with a picture of a star, a gray button depicting the moon, a red button
+illustrated with a bloody knife, and a purple button engraved with a royal crown. In the center of the lid is a white button picturing a dove in flight.
+
+>
+>>> press black button
+press black button
+
+
+There is a click from the lid of the trunk.
+
+>
+>>> press black button
+press black button
+
+
+There is a click from the lid of the trunk.
+
+>
+>>> press purple button
+press purple button
+
+
+There is a click from the lid of the trunk.
+
+>
+>>> press red button
+press red button
+
+
+There is a click from the lid of the trunk.
+
+>
+>>> press black button
+press black button
+
+
+There is a click from the lid of the trunk. A moment later, the lid of the trunk swings slowly open, revealing a moldy scroll.
+
+>
+>>> get scroll
+get scroll
+
+
+Taken.
+
+>
+>>> aimfiz belboz
+aimfiz belboz
+
+
+As you cast the spell, the moldy scroll vanishes!
+
+After a momentary dizziness, you realize that your location has changed, although Belboz is not in sight...
+
+Twisted Forest
+You are on a path through a blighted forest. The trees are sickly, and there is no undergrowth at all. One tree here looks climbable. The path, which ends here, continues to the northeast.
+
+A hellhound is racing straight toward you, its open jaws displaying rows of razor-sharp teeth.
+
+>
+>>> score
+score
+Your score is 95 of a possible 400, in 46 moves. This puts you in the class of Parlor Magician.
+
+>
+>>> ne
+ne
+
+
+Forest Edge
+To the west, a path enters the blighted woods, which stretch out of sight. A signpost stands beside another path leading north, and to the east is a wide meadow. At the base of the signpost is a slimy
+hole leading down.
+The hellhound stops at the edge of the forest and bellows. After a moment, it turns and slinks into the trees.
+
+>
+>>> learn pulver
+learn pulver
+
+
+Using your best study habits, you learn the pulver spell.
+
+>
+>>> learn izyuk
+learn izyuk
+
+
+Using your best study habits, you learn the izyuk spell.
+
+>
+>>> learn izyuk
+learn izyuk
+
+
+Using your best study habits, you learn the izyuk spell yet another time.
+
+>
+>>> learn izyuk
+learn izyuk
+
+
+Using your best study habits, you learn the izyuk spell yet another time.
+
+>
+>>> e
+e
+
+
+Meadow
+You are in the center of a barren field. To the east is the turret of a ruined castle, and from the northeast comes the sound of rushing water.
+
+A swarm of bloodsucking locusts appears on the horizon.
+
+>
+>>> ne
+ne
+
+
+River Bank
+You are on a muddy bank of a fast-moving river, full of sharp rocks and foaming rapids, flowing to the southwest. The ground is soft and eroded, and continually threatens to dump you into the
+turbulent waters. A field lies to the southwest, and a trail leads southeast along the bank.
+
+>
+>>> pulver river
+pulver river
+
+
+The river dries up, leaving only a few puddles between the rocks! It's now safe to climb down into the river bed.
+
+>
+>>> d
+d
+
+
+River Bed
+You are on the bed of an evaporated river. Fish splash helplessly in tiny puddles. The bed leads northwest and southeast. A climb up the southwest bank is possible. To the northeast is a dark cave,
+hollowed out by years of rushing water.
+
+>
+>>> ne
+ne
+
+
+Hidden Cave
+This is a hollow area under the northeast bank of the river. The floor rises away from the mouth of the cave, which is at its southwest end. A dark hole leads downward at the far end of the cave.
+Lying in the corner, in a pile of bat guano, is a scroll.
+There is an amber vial here.
+
+>
+>>> get scroll
+get scroll
+
+
+Taken.
+
+>
+>>> get guano
+get guano
+
+
+Taken.
+
+There is a roar of water from outside the cave. The lower part of the cave, near the mouth, fills with a pool of swirling water!
+
+>
+>>> gnusto fweep
+gnusto fweep
+
+
+Your spell book begins to glow softly. Slowly, ornately, the words of the fweep spell are inscribed, glowing even more brightly than the book itself. The book's brightness fades, but the spell
+remains! However, the scroll on which it was written vanishes as the last word is copied.
+
+>
+>>> d
+d
+
+
+Pit of Bones
+In the center of the room is a deep pit filled with countless bones, an indication of the brutality of dungeon life. There are exits south and southwest. High above you is a small opening in the
+ceiling.
+
+>
+>>> sw
+sw
+
+
+Dungeon
+This is the dark and dank dungeon of the ruined castle. There's probably a torture chamber nearby. You can go east, northeast, or upward. A small opening leads down as well.
+
+>
+>>> u
+u
+
+
+Ruins
+You are amongst the ruins of an ancient castle. A winding stairway leads up to a crumbling turret, and a dark passage leads downward. A path heads through the rubble to the west.
+
+>
+>>> w
+w
+
+
+Drawbridge
+You are standing on the drawbridge of a ruined castle which lies to your east. The wood of the bridge looks severely rotted and creaks ominously beneath you. The moat, although an easy dive from here,
+looks dangerous, full of sinister shapes beneath the surface of the water. To the west is a wide field.
+
+>
+>>> w
+w
+
+
+Meadow
+
+A swarm of bloodsucking locusts appears on the horizon.
+
+>
+>>> ne
+ne
+
+
+River Bank
+
+>
+>>> se
+se
+
+
+Fort Entrance
+You are at the entrance to Fort Griffspotter, which lies to the east. A trail leads along the river bank to the northwest.
+
+>
+>>> e
+e
+
+
+Parade Ground
+You are at the center of a level field inside the fort. Entrances to rooms around the perimeter lie in several directions.
+A tattered flag, apparently that of ancient Quendor, still flies atop a mighty flagpole in the center of the field.
+
+>
+>>> lower flag
+lower flag
+
+
+The flag is lowered to the ground.
+
+>
+>>> examine flag
+examine flag
+
+
+As you fiddle with the flag, an aqua vial drops from a hidden pocket and falls to the ground.
+
+>
+>>> get aqua vial
+get aqua vial
+
+
+Taken.
+
+>
+>>> e
+e
+
+
+Gun Emplacement
+This is a battlement with a view of a river to the north and an ocean to the east. Openings northwest, west, and southwest lead to other parts of the fort.
+A magnificent cast-iron cannon stands atop the battlement. Its wide, shallow barrel points toward the ocean, as though daring enemy ships to approach.
+
+>
+>>> put guano in barrel
+put guano in barrel
+
+
+When you drop the guano into the barrel, dozens of scrolls pour out and literally run off in every direction! A single ordinary scroll is left sitting at the bottom of the barrel.
+
+>
+>>> get scroll
+get scroll
+
+
+Taken.
+
+>
+>>> w
+w
+
+
+Parade Ground
+A flag displaying the brown and gold of ancient Quendor is lying here.
+There is a flagpole here.
+
+>
+>>> w
+w
+
+
+Fort Entrance
+
+>
+>>> izyuk me
+izyuk me
+
+
+You are now floating serenely in midair.
+
+>
+>>> nw
+nw
+
+
+River Bank (you are flying)
+
+>
+>>> sw
+sw
+
+
+Meadow (you are flying)
+
+You settle gently to the ground.
+
+A swarm of bloodsucking locusts appears on the horizon.
+
+>
+>>> w
+w
+
+
+Forest Edge
+
+>
+>>> score
+score
+Your score is 125 of a possible 400, in 79 moves. This puts you in the class of Novice Enchanter.
+
+>
+>>> d
+d
+
+
+Snake Pit
+You have entered a shadowy pit full of nooks and crannies. From every direction you hear the hissing of vipers and the irregular clicking of giant beetles. Light spills down from above, and a small
+crack leads further downward into darkness.
+
+>
+>>> d
+d
+
+
+Slimy Room
+This is a moist room whose walls are thick with moss and lichens. A small hole leads up and a rocky passage leads south.
+
+You are beginning to tire.
+
+>
+>>> s
+s
+
+
+Crater
+You are standing in the center of an enormous crater, strewn with debris. Several points around the perimeter look climbable.
+
+>
+>>> w
+w
+
+
+Edge of Chasm
+This is a strip of land to the east of a gaping chasm. You might try jumping across, but I'd advise against it. A wide crater lies to the east.
+
+>
+>>> izyuk me
+izyuk me
+
+
+You are now floating serenely in midair.
+
+>
+>>> w
+w
+
+
+You fly easily across the chasm...
+
+Bare Passage (you are flying)
+This is a featureless tunnel, narrowing to the west. To the east is a deep gorge, probably too wide to jump across.
+
+>
+>>> w
+w
+
+
+Elbow Room (you are flying)
+The tunnel turns a corner here. You could go either north or east.
+
+You settle gently to the ground.
+
+>
+>>> n
+n
+
+
+Tree Room
+This is a tall room flooded with light from an unseen source. The only exit is south.
+Growing in the center of the room is a tree, thick with foliage. As though to disprove the ancient adage, every branch, bow, and twig has a zorkmid coin growing on it.
+
+>
+>>> get zorkmid
+get zorkmid
+
+
+As you pluck the first zorkmid, the tree shimmers and vanishes! (I guess it was just an illusion.) You are left holding a solitary zorkmid coin.
+
+>
+>>> get coin
+get coin
+
+
+You already have it.
+
+You are feeling tired.
+
+>
+>>> s
+s
+
+
+Elbow Room
+
+>
+>>> e
+e
+
+
+Bare Passage
+
+>
+>>> izyuk me
+izyuk me
+
+
+You are now floating serenely in midair.
+
+>
+>>> e
+e
+
+
+You fly easily across the chasm...
+
+Edge of Chasm (you are flying)
+
+>
+>>> e
+e
+
+
+Crater (you are flying)
+
+You settle gently to the ground.
+
+>
+>>> ne
+ne
+
+
+Edge of Crater
+You are at the northeastern rim of a gigantic crater, the result of some ancient explosion. A wide underground highway, which ends at the crater's edge, leads northeast.
+
+>
+>>> ne
+ne
+
+
+Bend
+The road curves here, heading east and southwest.
+
+>
+>>> e
+e
+
+
+Highway
+This is a wide road winding away to the east and west, perhaps a relic of the Great Underground Empire you read about in history class. A passage leads up to the north.
+
+You are getting more and more tired.
+
+>
+>>> e
+e
+
+
+Toll Gate
+You have reached a toll gate which spans the highway.
+A fat old gnome with a long white beard is sleeping soundly just outside the toll booth. His loud snores echo around the caverns.
+
+>
+>>> wake gnome
+wake gnome
+
+
+The gnome stirs a bit and opens one eye, which wanders around until it notices you. He jumps to his feet. "One zorkmid, please," he yells with a smile.
+
+>
+>>> give zorkmid to gnome
+give zorkmid to gnome
+
+
+The gnome pockets the coin and opens the gate. Before you can take a step the gnome falls asleep again.
+
+>
+>>> give coin to gnome
+give coin to gnome
+You don't have that!
+
+>
+>>> e
+e
+
+
+Outside Store
+A store lies to the south from this section of the east-west road. There is a sign over the entrance.
+
+>
+>>> e
+e
+
+
+End of Highway
+The underground road ends here. A hovel, carved into the rock, lies to the east. To the north, wide marble stairs lead upward.
+
+>
+>>> n
+n
+
+
+Entrance Hall
+This is a large entrance hall, paved with polished stone. Large doorways lead north and south.
+Standing in the center of the hall is a life-sized statue. An inscription at the base is in a familiar language.
+
+>
+>>> n
+n
+
+
+Outside Glass Arch
+Through a breathtaking archway of glass to the east is an area glistening with reflected light. Another exit leads south.
+
+>
+>>> sleep
+sleep
+
+
+Ah, sleep! It's been a long day and rest will do you good. You spread your cloak on the floor and drift off, renewing your powers and refreshing your mind. Time passes as you snore blissfully.
+
+You sleep uneventfully, awake refreshed, and rise to your feet.
+
+>
+>>> learn fweep
+learn fweep
+
+
+Using your best study habits, you learn the fweep spell.
+
+>
+>>> learn fweep
+learn fweep
+
+
+Using your best study habits, you learn the fweep spell yet another time.
+
+>
+>>> learn fweep
+learn fweep
+
+
+Using your best study habits, you learn the fweep spell yet another time.
+
+>
+>>> fweep me
+fweep me
+
+
+With keen disappointment, you note that nothing has changed. Then, you slowly realize that you are black, have two wing-like appendages, and are flying a few feet above the ground. Understandably, you
+dropped everything you were carrying.
+
+>
+>>> e
+e
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the south and
+to the east.
+
+>
+>>> n
+n
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the north and to the
+west.
+
+>
+>>> e
+e
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north and to the
+east.
+
+>
+>>> s
+s
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the east and
+to the west.
+
+>
+>>> s
+s
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you and to the south.
+
+>
+>>> w
+w
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the north, to the south
+and to the west.
+
+>
+>>> d
+d
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north, to the south
+and to the west.
+
+>
+>>> e
+e
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the north and
+to the south.
+
+>
+>>> e
+e
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the south and
+to the east.
+
+>
+>>> n
+n
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the east and
+to the west.
+
+>
+>>> n
+n
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north, to the east
+and to the west.
+
+>
+>>> u
+u
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces to the north, to the south, to the
+east and to the west.
+
+>
+>>> u
+u
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the north, to the east
+and to the west.
+
+>
+>>> s
+s
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the south and
+to the west.
+
+After a moment of futilely flapping your arms, you realize that the fweep spell has worn off. You fall several feet to the ground.
+
+>
+>>> e
+e
+
+
+Hollow
+The maze opens here onto a tiny outdoor plateau, completely surrounded by towering cliffs. The only way out is back through the dazzling archway of glass to the west.
+Near the glass arch is a small rectangular brick structure. The center of the structure is a hole about a foot wide, leading down into darkness.
+There is a parchment scroll here.
+
+>
+>>> get scroll
+get scroll
+
+
+As you take the scroll, a deep and evil laugh rumbles around the hollow. You hear a sliding, grinding noise and turn just in time to catch a flicker of light from within the glass maze, indicating
+that its transparent panels have shifted around.
+
+>
+>>> drop scroll in hole
+drop scroll in hole
+
+
+The parchment scroll disappears into the shaft.
+
+>
+>>> fweep me
+fweep me
+
+
+With keen disappointment, you note that nothing has changed. Then, you slowly realize that you are black, have two wing-like appendages, and are flying a few feet above the ground.
+
+With a loud roar, a dreadfully huge dorn beast emerges from the shadows at the base of the cliff and gallops toward you.
+
+>
+>>> w
+w
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the north and
+to the south.
+
+The dorn beast rushes after you. Its ear-splitting bellowing resounds throughout the glass maze.
+
+>
+>>> w
+w
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the north and
+to the west.
+
+The dorn beast rushes after you. Its ear-splitting bellowing resounds throughout the glass maze.
+
+>
+>>> s
+s
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the south and
+to the west.
+
+The dorn beast rushes after you. Its ear-splitting bellowing resounds throughout the glass maze.
+
+>
+>>> e
+e
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the north, to the south
+and to the east.
+
+The dorn beast rushes after you. Its ear-splitting bellowing resounds throughout the glass maze. Suddenly, the dorn-beast realizes that it is galloping through midair, and gives a surprisingly high-
+pitched squeal. It claws frantically at thin air, trying desperately to invent dorn beast flight. You happily notice that dorn beasts do not so much fly as plummet.
+
+>
+>>> d
+d
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces to the north, to the south and to the
+east.
+
+>
+>>> d
+d
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north, to the south
+and to the east.
+A somewhat splattered corpse is sprawled across the floor.
+
+>
+>>> w
+w
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the north and
+to the south.
+
+>
+>>> w
+w
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north, to the south
+and to the west.
+
+>
+>>> u
+u
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces to the north, to the south, to the
+east and to the west.
+
+>
+>>> u
+u
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the south, to the east
+and to the west.
+
+>
+>>> n
+n
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the east and
+to the west.
+
+>
+>>> n
+n
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the north, to the east
+and to the west.
+
+>
+>>> d
+d
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north, to the south
+and to the west.
+
+>
+>>> e
+e
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north and to the
+east.
+
+After a moment of futilely flapping your arms, you realize that the fweep spell has worn off. You fall several feet to the ground.
+
+>
+>>> fweep me
+fweep me
+
+
+With keen disappointment, you note that nothing has changed. Then, you slowly realize that you are black, have two wing-like appendages, and are flying a few feet above the ground. Thanks to your
+sonar-like bat senses, you can tell that there are surfaces below you, to the north and to the east.
+
+>
+>>> s
+s
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the south and
+to the west.
+
+>
+>>> e
+e
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the south and
+to the east.
+
+>
+>>> n
+n
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the north, to the east
+and to the west.
+
+>
+>>> d
+d
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the north and to the
+east.
+
+>
+>>> w
+w
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the north and
+to the west.
+
+>
+>>> s
+s
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, below you, to the south and
+to the east.
+
+>
+>>> w
+w
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces below you, to the south and to the
+west.
+
+>
+>>> u
+u
+
+
+Inside the Glass Maze (you are flying)
+You are inside a huge cubical maze, shimmering with light from an unseen source above. Thanks to your sonar-like bat senses, you can tell that there are surfaces above you, to the north, to the south
+and to the east.
+
+>
+>>> w
+w
+
+
+Outside Glass Arch (you are flying)
+There is a spell book here.
+An orange vial, labelled in tiny letters, is lying here.
+There is an aqua vial here.
+There is an ordinary scroll here.
+
+>
+>>> wait
+wait
+
+
+Time passes...
+
+>
+>>> wait
+wait
+
+
+Time passes...
+
+After a moment of futilely flapping your arms, you realize that the fweep spell has worn off. You fall several feet to the ground.
+
+>
+>>> get all
+get all
+
+
+spell book: Taken.
+orange vial: Taken.
+aqua vial: Taken.
+ordinary scroll: Taken.
+
+>
+>>> s
+s
+
+
+Entrance Hall
+Standing in the center of the hall is a life-sized statue. An inscription at the base is in a familiar language.
+
+>
+>>> s
+s
+
+
+End of Highway
+
+>
+>>> e
+e
+
+
+Stone Hut
+This is a small underground hovel. On the far wall is a small fireplace, long unused.
+The fireplace contains:
+  a parchment scroll
+
+>
+>>> get scroll
+get scroll
+
+
+Taken.
+
+>
+>>> gnusto swanzo
+gnusto swanzo
+
+
+Your spell book begins to glow softly. Slowly, ornately, the words of the swanzo spell are inscribed, glowing even more brightly than the book itself. The book's brightness fades, but the spell
+remains! However, the scroll on which it was written vanishes as the last word is copied.
+
+>
+>>> w
+w
+
+
+End of Highway
+
+>
+>>> w
+w
+
+
+Outside Store
+
+>
+>>> w
+w
+
+
+Toll Gate
+A fat old gnome with a long white beard is sleeping soundly just outside the toll booth. His loud snores echo around the caverns.
+
+>
+>>> search gnome
+search gnome
+
+
+You carefully search the sleeping gnome, and take the zorkmid coin you find in his pocket!
+
+>
+>>> w
+w
+
+
+Highway
+
+>
+>>> w
+w
+
+
+Bend
+
+>
+>>> sw
+sw
+
+
+Edge of Crater
+
+>
+>>> sw
+sw
+
+
+Crater
+
+>
+>>> s
+s
+
+
+Winding Tunnel
+This is a meandering north-south tunnel. A side passage leads to the southwest.
+
+>
+>>> score
+score
+Your score is 205 of a possible 400, in 222 moves. This puts you in the class of Senior Enchanter.
+
+>
+>>> sw
+sw
+
+
+Park Entrance
+This looks like the entrance to a run-down amusement park, no longer gaudy with lights and glitter. A sign above the entrance proclaims "Welcome to Bozbarland - The Entertainment Capital of the
+Empire." The park lies to the west and a tunnel leads northeast.
+
+>
+>>> w
+w
+
+
+You bounce off an invisible barrier. A moment later a gnome appears, dressed in a gaudy plaid outfit. "Admission to the park is only one zorkmid. What a bargain, chum, eh?"
+
+>
+>>> give zorkmid to gnome
+give zorkmid to gnome
+
+
+"Okay, you can go through now, bub. Enjoy your trip to Bozbarland." The gnome vanishes as suddenly as he appeared.
+
+>
+>>> give coin to gnome
+give coin to gnome
+You don't have that!
+
+>
+>>> w
+w
+
+
+East End of Midway
+You are at the eastern end of a long midway. The park entrance lies to the east, and rides lie to the north and south.
+
+>
+>>> w
+w
+
+
+West End of Midway
+Entrances lead north, west and south, and the rest of the midway lies to the east.
+
+>
+>>> s
+s
+
+
+Arcade
+This is a huge tent filled with hectic noise, blinking lights, and the smell of frying food. Near the exit is a game booth lined with prizes. The concept of the game seems to be bashing cute little
+mechanical bunnies with a rubber ball as they hop around a little artificial meadow.
+A hawker stands within the booth, studying you through half-closed eyes.
+"C'mon, pal!" cries the hawker from the game booth. "Try your luck!" He holds the ball out toward you.
+
+>
+>>> get ball
+get ball
+
+
+Taken.
+
+>
+>>> open aqua vial
+open aqua vial
+
+
+Opening the aqua vial reveals aqua potion.
+
+>
+>>> drink aqua potion
+drink aqua potion
+
+
+The aqua potion tasted like lime jelly, and sent vibrations through your muscles.
+
+>
+>>> throw ball at rabbit
+throw ball at rabbit
+
+
+A tremendous pitch sends a bunny spinning. "What an arm, kid, what an arm!" cries the hawker. He hands you a glittering scroll from the shelf of prizes. "Here's your prize, now scram."
+
+>
+>>> gnusto malyon
+gnusto malyon
+
+
+Your spell book begins to glow softly. Slowly, ornately, the words of the malyon spell are inscribed, glowing even more brightly than the book itself. The book's brightness fades, but the spell
+remains! However, the scroll on which it was written vanishes as the last word is copied.
+
+>
+>>> n
+n
+
+
+West End of Midway
+
+You are beginning to tire.
+
+>
+>>> e
+e
+
+
+East End of Midway
+
+>
+>>> e
+e
+
+
+Park Entrance
+
+>
+>>> ne
+ne
+
+
+Winding Tunnel
+
+>
+>>> score
+score
+Your score is 215 of a possible 400, in 237 moves. This puts you in the class of Senior Enchanter.
+
+>
+>>> s
+s
+
+
+Hall of Carvings
+You have entered a large room whose walls are covered with intricate carvings. The largest and most striking carving, on the southern wall, is of a huge sleeping dragon! A winding tunnel leads north.
+
+>
+>>> yonk malyon
+yonk malyon
+
+
+As you cast the spell, the ordinary scroll vanishes!
+
+The words of the spell glow brightly for a moment.
+
+>
+>>> learn malyon
+learn malyon
+
+
+Using your best study habits, you learn the malyon spell.
+
+>
+>>> malyon dragon
+malyon dragon
+
+
+The dragon is suddenly imbued with life and begins to move. It shakes itself loose from the wall, which crumbles down upon the dragon, revealing a southward passage! The dragon howls with pain and
+anger. Spotting you, the dragon rears back its head, smoke billowing from its nostrils. Then, just as it seems that you will be barbecued, the dragon reverts to stone!
+
+>
+>>> sleep
+sleep
+
+
+Ah, sleep! It's been a long day and rest will do you good. You spread your cloak on the floor and drift off, renewing your powers and refreshing your mind. Time passes as you snore blissfully.
+
+You sleep uneventfully, awake refreshed, and rise to your feet.
+
+>
+>>> s
+s
+
+
+Sooty Room
+The walls and ceiling of this room are covered with soot and held up by timbers which don't look very sturdy. A winding tunnel leads north. From the east comes a sulfurous odor.
+
+>
+>>> e
+e
+
+
+There is a rumbling noise behind you as the ceiling of the tunnel collapses, blocking your retreat! The air smells strongly of coal gas. You won't survive long in this atmosphere.
+
+Coal Bin Room
+This is obviously the heart of a large coal mine, illuminated by a wall-mounted lamp. The bottom of a metal coal chute is visible at the north end of the room. Another chute continues downward at the
+southern end. A large coal bin is overflowing, and the floor is completely covered with lumps of coal. A passage leads east, but a western passage is blocked by rubble.
+
+>
+>>> open orange vial
+open orange vial
+
+
+Opening the orange vial reveals orange potion.
+
+You are about to pass out from the bad air.
+
+>
+>>> drink orange potion
+drink orange potion
+
+
+The orange potion tasted like pepper, and made your nose tingle.
+
+A few lumps of coal spill from the coal chute.
+
+Someone slides out of the coal chute, and lands near the bin. Although your clothes are much cleaner and less torn, the stranger looks virtually like your own twin!
+
+>
+>>> give spell book to older self
+give spell book to older self
+
+
+Your older self accepts the spell book gratefully.
+
+Your disheveled "twin" is having difficulty breathing, but gasps, "The combination is 571."
+
+>
+>>> give book to older self
+give book to older self
+You don't have the spell book.
+
+>
+>>> give book to twin
+give book to twin
+You don't have the spell book.
+
+>
+>>> e
+e
+
+
+Dial Room
+On the eastern wall is a heavy door with a dial set into it. There is a sign on the door. Another exit leads west, and a wall-mounted lamp provides illumination. The floor is deeply covered with lumps
+of coal.
+
+Someone in the coal bin room dives into the lower chute.
+
+>
+>>> turn dial to 571
+turn dial to 571
+
+
+The dial is now set to 571. You hear a click from inside the door.
+
+>
+>>> open door
+open door
+
+
+The door opens easily.
+
+>
+>>> e
+e
+
+
+Shaft Bottom
+You are at the bottom of an air shaft which looks climbable. A heavy door leads west.
+Lying in one corner is a coil of rope.
+
+>
+>>> get rope
+get rope
+
+
+Taken.
+
+>
+>>> u
+u
+
+
+Shaft Top
+You are deep inside a large coal mine, at the top of an air shaft. You could descend into the shaft; passages in many directions lead further into the mine.
+
+>
+>>> nw
+nw
+
+
+Coal Mine
+You are in a winding tunnel in a large coal mine. Passages lead off in many directions.
+Lying near the mouth of one passage is a wooden timber, probably left over from the construction of the mine.
+
+>
+>>> get timber
+get timber
+
+
+Taken.
+
+>
+>>> get beam
+get beam
+
+
+You already have it.
+
+>
+>>> nw
+nw
+
+
+Coal Mine
+You are in a winding tunnel in a large coal mine. Passages lead off in many directions.
+
+>
+>>> w
+w
+
+
+Top of Chute
+You are at the western end of the coal mine. A metal chute leads downward.
+
+>
+>>> put timber over chute
+put timber over chute
+
+
+The beam is now lying across the mouth of the chute.
+
+>
+>>> put beam over chute
+put beam over chute
+You don't have the beam of wood.
+
+>
+>>> tie rope to timber
+tie rope to timber
+
+
+The rope is tied securely to the center of the beam.
+
+>
+>>> tie rope to beam
+tie rope to beam
+
+
+The rope is already tied securely to the center of the beam.
+
+>
+>>> drop rope in chute
+drop rope in chute
+
+
+The rope hangs from the beam, into the chute.
+
+A troglodyte trundles in and dumps a load of coal into the chute.
+
+>
+>>> drop all
+drop all
+
+
+aqua vial: Dropped.
+orange vial: Dropped.
+
+The troglodyte trundles off into the coal mine.
+
+>
+>>> climb down rope
+climb down rope
+
+
+You climb carefully down the rope, which is slippery with coal dust, and soon reach a small opening off the chute. You clamber inside...
+
+Slanted Room
+This small room has a slanted roof, presumably due to the coal chute which passes overhead. You can reenter the chute to the east.
+There is a shimmering scroll here.
+Mounted securely to the wall is a kerosene lamp, filling the room with a serene orange glow. A small compartment at its base is open.
+
+You feel the vilstu potion beginning to wear off, and the air here seems pretty unbreathable.
+
+>
+>>> get scroll
+get scroll
+
+
+Taken.
+
+>
+>>> golmac me
+golmac me
+
+
+As you cast the spell, the shimmering scroll vanishes!
+
+You are surrounded by a puff of smoke, and feel disoriented for a moment. When the smoke clears, nothing seems to have changed, except that the kerosene lamp is now closed.
+
+>
+>>> open lamp
+open lamp
+
+
+Opening the kerosene lamp reveals a smelly scroll.
+
+>
+>>> get smelly scroll
+get smelly scroll
+
+
+Taken.
+
+The vilstu potion has almost completely worn off now, and I doubt you could survive here without it.
+
+>
+>>> e
+e
+
+
+Wheeee!!!
+
+Coal Bin Room
+Standing here, looking quite confused, is someone who could only be your younger self -- an exact duplicate of you, but cleaner and breathing with considerably less difficulty. You remember seeing
+this scene from another viewpoint just a short while ago. Among the items carried by your "twin" is your spell book.
+
+>
+>>> younger self, the combination is 571
+younger self, the combination is 571
+
+
+Your younger self seems surprised by your statement.
+
+Your younger self hands you your spell book!
+
+>
+>>> say to younger self "the combination is 571"
+say to younger self "the combination is 571"
+
+
+Your younger self seems surprised by your statement.
+
+Your younger self is moving around.
+
+>
+>>> tell younger self about 571
+tell younger self about 571
+That sentence isn't one I recognize.
+
+>
+>>> d
+d
+
+
+You fly out of the chute and land just at the edge of some water...
+
+Lagoon Shore
+This is a narrow beach between a small cove to the east and tall cliffs to the west. The shore curves to the southeast and northeast. A metal chute leads up into the cliff.
+
+>
+>>> score
+score
+Your score is 320 of a possible 400, in 322 moves. This puts you in the class of Member of the Circle of Enchanters.
+
+>
+>>> gnusto vardik
+gnusto vardik
+
+
+Your spell book begins to glow softly. Slowly, ornately, the words of the vardik spell are inscribed, glowing even more brightly than the book itself. The book's brightness fades, but the spell
+remains! However, the scroll on which it was written vanishes as the last word is copied.
+
+>
+>>> ne
+ne
+
+
+Ocean Shore North
+You are standing on the western shore of the mighty Flathead Ocean. According to legends you read at the University, the eastern shore of this ocean is a strange land of magical beings and priceless
+treasures. You could go north along the shore; the edge of a small cove lies to the southwest.
+
+You feel the final effects of the vilstu potion vanish, leaving you totally exhausted (an unfortunate side effect).
+
+>
+>>> wait
+wait
+
+
+Time passes...
+
+>
+>>> sleep
+sleep
+
+
+Ah, sleep! It's been a long day and rest will do you good. You spread your cloak on the floor and drift off, renewing your powers and refreshing your mind. Time passes as you snore blissfully.
+
+You dream of an idyllic scene in the country, a picnic of wood-sprites and dryads. You awaken and stand.
+
+>
+>>> learn vardik
+learn vardik
+
+
+Using your best study habits, you learn the vardik spell.
+
+>
+>>> learn meef
+learn meef
+
+
+Using your best study habits, you learn the meef spell.
+
+>
+>>> learn meef
+learn meef
+
+
+Using your best study habits, you learn the meef spell yet another time.
+
+>
+>>> learn swanzo
+learn swanzo
+
+
+Using your best study habits, you learn the swanzo spell.
+
+>
+>>> drop all
+drop all
+
+
+spell book: Dropped.
+
+>
+>>> s
+s
+
+
+Surface of Lagoon
+You are swimming on the surface of a calm lagoon, whose sandy floor is visible below. A curved beach surrounds this inlet on its western side.
+
+>
+>>> d
+d
+
+
+Lagoon Floor
+This is the floor of a cove off the turbulent ocean to the east. The ground slopes upward to the north, west, and south. Light filters down from the surface of the water.
+Nestled among some coral is a clump of stunningly beautiful spenseweeds, waving slowly in the currents of the lagoon.
+
+>
+>>> meef weeds
+meef weeds
+
+
+The spenseweeds wilt away, revealing a wooden crate labelled with black lettering.
+
+>
+>>> get crate
+get crate
+
+
+Taken.
+
+You won't be able to hold your breath much longer.
+
+>
+>>> n
+n
+
+
+Ocean Shore North
+There is a spell book here.
+
+>
+>>> open crate
+open crate
+
+
+Opening the wooden crate reveals a can of grue repellent, a brass lantern, and a grue suit.
+
+>
+>>> wear suit
+wear suit
+
+
+You are now wearing the grue suit.
+
+>
+>>> get book
+get book
+
+
+Taken.
+
+>
+>>> n
+n
+
+
+Mouth of River
+A mighty river spills into the ocean here. Looking up the river valley, you see a tall waterfall. Atop a cliff, high above you, is the rampart of a fortress. A cave entrance at the base of the cliff
+to the west is blocked by writhing green vines.
+
+>
+>>> meef vines
+meef vines
+
+
+You can almost feel a wave of pain from the vines as they shrivel away.
+
+>
+>>> w
+w
+
+
+Grue Lair
+This is a low, shadowy cave leading east to west. The rocky walls are scarred with deep claw marks.
+A pack of grues fills the room! The grues, contrary to all conventional wisdom, aren't bothered by your light in the least. They must be mutated grues, no longer fearing light! They seem to be
+ignoring you, aside from a few suspicious gurgles in your direction.
+
+>
+>>> w
+w
+
+
+Mammoth Cavern
+This cavern is of extraordinary size, but nevertheless crowded with powerful-looking machinery. You recognize a breeder for producing millions of the mutated grues you just passed. Other devices seem
+designed to aid the forces of evil while sapping magic powers of Enchanters everywhere.
+
+At the far end of the cavern are three closed doors: a black marble door leading to the northwest, a shiny silver door heading due west, and a door of bleached white wood to the southwest.
+
+>
+>>> vardik me
+vardik me
+
+
+A feeling of warmth and protection fills your mind.
+
+>
+>>> open white door
+open white door
+
+
+The door creaks slowly open. Within, you see someone lying as though asleep. You feel yourself drawn into the room...
+
+Belboz's Hideout
+An acrid stench fills this small room, which is obviously a control center for the evil experiments in the cavern outside.
+Hanging on the wall is a heavy dagger, its handle encrusted with diamonds.
+Belboz is lying here, motionless but not asleep. He seems to be in some sort of trance.
+
+>
+>>> swanzo belboz
+swanzo belboz
+
+>swanzo belboz
+A wispy translucent shape rises from the body of Belboz. It speaks in a voice so deep that your whole body seems to hear it. "Foolish Charlatan! I am forced to flee that weak, old body -- I shall take
+your own, instead! Already I have sucked all knowledge, all secrets from that ancient Enchanter. Now begins an epoch of evil transcending even your worst nightmares; a reign of terror that will last a
+thousand thousand years!" The shape blows toward you on a cold wind.
+
+Jeearr surrounds you like a cloud and begins to contract. Suddenly, it strikes your invisible protection and recoils as if burned. "No!" it cries. "Such a guileless Enchanter developing a mind
+shield?" The cloud is thinner, the voice fainter. "It cannot be! I cannot survive ... without a host." The demon roils in agony, then thins and dissipates. There is a final scream of pain, then
+silence.
+
+Belboz moans softly, and begins stirring. He sees you and rises, instantly alert. After posing a few well-chosen questions, he casts a brief but unfamiliar spell.
+
+An instant later, your grue suit has vanished and you are standing in the Chamber of the Circle. The Circle of Enchanters is assembled. Belboz speaks. "Once again, this young Enchanter has done a
+matchless service to the Guild and to the entire kingdom, displaying resourcefulness and imagination worthy of the greatest of Enchanters. I grow old, and must soon step down as Head of the Circle.
+But let it be known that a successor has been found."
+
+Your score is 400 of a possible 400, in 397 moves. This puts you in the class of Leader of the Circle of Enchanters.
+
+Here ends the second chapter of the Enchanter saga, in which, by virtue of your skills, you have been appointed as the next leader of the Circle of Enchanters. The final adventure awaits you as the
+Enchanter series concludes.
+
+Would you like to restart the game from the beginning, restore a saved game position, or end this session of the game? (Type RESTART, RESTORE, or QUIT):
+***MORE***
+>>> score
+score
+>
+>>> quit
+quit
+
+>>> y
+y
